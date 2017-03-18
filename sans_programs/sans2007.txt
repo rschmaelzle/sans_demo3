@@ -1,0 +1,774 @@
+THE DONALD D. HARRINGTON
+FELLOWS PROGRAM
+in collaboration with
+the University of Texas at Austin, the American Psychological Association, Oxford
+University Press, and the University of Texas at Austin’s Imaging Research Center
+PRESENTS
+
+NEURAL SYSTEMS OF SOCIAL BEHAVIOR
+
+Hilton Hotel, Austin, Texas
+May 11-13, 2007
+
+Conference Organizer: Jennifer Beer
+Program Selection Committee: Jennifer Beer, Jason Mitchell, Kevin Ochsner
+
+NEURAL SYSTEMS OF SOCIAL BEHAVIOR
+Hilton Hotel, Austin, Texas
+May 11-13, 2007
+The conference takes place in Salon F and Salon G on the 6th floor of the Austin Hilton.
+FRIDAY, MAY 11
+5:30-8:30PM:
+Registration
+6:15-7:30PM:
+Introductory Remarks
+Keynote Address: John Kihlstrom
+7:30-8:30PM:
+Welcome Reception
+
+Salon F Foyer
+Salon F
+Salon F
+Salon F
+
+SATURDAY, MAY 12
+8:45AM-1:30PM:
+Registration
+Salon F Foyer
+9:00-10AM:
+Continental Breakfast
+Salon F Foyer
+9:55-10:55AM:
+Paper Session A
+Salon F
+(Ermer, Bahnemann, Mitchell)
+11:00AM-12:00PM: Poster Session A
+Salon G
+12:00-1:30PM:
+Lunch Break
+1:30-3:10PM:
+Paper Session B
+Salon F
+(Borg, Beer, Ochsner, Feldman Barrett)
+3:10-3:50PM:
+Coffee Break
+Salon F
+3:50-5:30PM:
+Paper Session C
+Salon F
+(Rangel, van’t Wout, Lakshminarayanan, Camerer)
+6:00-7:15PM:
+Keynote Address: David Amaral
+Salon F
+SUNDAY, MAY 13
+8:30-9:30AM:
+Continental Breakfast
+9:15-10:55AM:
+Paper Session D
+(Harris, Olsson, Schiller, Phelps)
+11:00AM-12:00PM: Poster Session B
+12:00-1:30PM:
+Lunch Break
+1:30-3:10PM:
+Paper Session E
+(LaBar, Krueger, Zink, Adolphs)
+
+Salon F Foyer
+Salon F
+Salon G
+Salon F
+
+TABLE OF CONTENTS
+Contents
+Keynote Address Abstract: Kihlstrom
+Paper Session A Abstracts
+Paper Session B Abstracts
+Paper Session C Abstracts
+Keynote Address Abstract: Amaral
+Paper Session D Abstracts
+Paper Session E Abstracts
+Poster Session A Titles
+Poster Session B Titles
+
+Pages
+2
+2-3
+4-5
+5-7
+8
+8-10
+10-12
+12-14
+14-16
+
+1
+
+PAPER SESSION ABSTRACTS
+FRIDAY, MAY 11
+6:30PM-7:30PM:
+
+Keynote Address: “The Footprints of Phineas Gage”
+John F. Kihlstrom, University of California, Berkeley
+
+Although once the province of social psychology, the social neuroscience approach now reaches
+into other social sciences as well, including economics and political science, as well as in the
+study of ethics. Social neuroscience has its roots more than 150 years ago, in the case of Phineas
+Gage. The 19th-century debate over the significance of the Gage case forms a backdrop for a
+consideration of certain issues in current social neuroscience, in particular the question of
+whether there are distinctive mental modules, and associated brain systems, dedicated to social
+interaction. I also consider the question of whether, and how, neuroscientific data can inform
+theory at the psychological and sociocultural levels of analysis.
+
+SATURDAY, MAY 12
+9:55AM-10:55AM: PAPER SESSION A
+9:55-10:15AM
+
+“Reasoning about Social Exhchange Engages Theory of Mind”
+Elsa Ermer, Scott A. Guerin, Leda Cosmides, John Tooby, & Michael B.
+Miller, University of California, Santa Barbara,
+
+Baron-Cohen (1995) proposed that the theory of mind (TOM) inference system evolved to
+promote strategic social interaction. Social exchange—a form of cooperation for mutual
+benefit—involves strategic social interaction and requires TOM inferences about the contents of
+other individual’s mental states, especially their desires, goals, and intentions. There are
+behavioral and neuropsychological dissociations between reasoning about social exchange and
+reasoning about equivalent problems tapping other, more general, content domains. It has
+therefore been proposed that social exchange behavior is regulated by social contract algorithms:
+a domain-specific inference system that is functionally specialized for reasoning about social
+exchange. We report an fMRI study using the Wason selection task that provides further support
+for this hypothesis. Precautionary rules share so many properties with social exchange rules—
+they are conditional, deontic, and involve subjective utilities—that most reasoning theories claim
+they are processed by the same neurocomputational machinery. Nevertheless, neuroimaging
+shows that reasoning about social exchange activates brain areas not activated by reasoning
+about precautionary rules, and vice versa. As predicted, neural correlates of theory of mind
+(anterior and posterior temporal cortex) were activated when subjects interpreted social exchange
+rules, but not precautionary rules (where TOM inferences are unnecessary). We argue that the
+interaction between TOM and social contract algorithms can be reciprocal: social contract
+algorithms require TOM inferences, but their functional logic also allows TOM inferences to be
+made.
+
+2
+
+SATURDAY, MAY 12
+10:15-10:35AM
+“Sociotopy of the Superior Temporal Sulcus-Searching for Dissociable
+Representations for Judgments on Movements, Mental States and
+Norm-Congruency Behavior”
+Markus Bahnemann, K. Prehn, I. Wolf, & H.R. Heekeren, Max-Planck
+Institute for Human Development
+Numerous studies using diverse paradigms to investigate the neural basis of biological motion
+perception (BM), theory-of-mind (ToM), and normative judgments (NJ) have found activity in
+the superior temporal sulcus (STS). Interpretations of this activity range from it being
+representative of the perception of socially relevant cues (Allison, 2000) up to the generation of a
+concept of person (Greene, 2002). The goal of the present fMRI study was to elucidate the
+function of the STS region within the social cognitive network. Based on a meta-analysis of
+previous imaging studies, we hypothesized that sub-regions within the STS would be
+differentially, i.e. function-specifically, activated by the three different tasks (BM, ToM, NJ). We
+developed a new task, in which participants made judgments about an agent’s movements,
+mental states or norm-conformity of behavior represented in animated stimuli. Importantly the
+material was kept constant and only task instructions were manipulated. Results reproduced
+whole-brain task-specific networks for each task as reported by previous studies. All three tasks
+activated the STS-region. The ToM-Task led to the greatest activity encompassing the entire
+sulcus and including the clusters of activity evoked by the BM- and NJ-Tasks. This considerable
+overlap suggests that a common process is engaged by all three tasks, yet to a different extent.
+This process might be an automated inference of intentions, even if not demanded by the task.
+10:35-10:55AM
+
+“Activity in right temporo- parietal junction is not selective for
+theory-of-mind”
+Jason Mitchell, Harvard University
+
+Recent researchers have suggested that a region of right temporo-parietal junction (RTPJ)
+selectively subserves the attribution of beliefs to other people (Saxe & Kanwisher, 2003; Saxe &
+Powell, 2006; Saxe & Wexler, 2005). At the same time, a similar RTPJ region has been observed
+repeatedly in a variety of nonsocial tasks that require participants to redirect attention to taskrelevant stimuli (e.g., Corbetta & Shulman, 2002; Serences et al., 2005). However, because
+these two sets of tasks have never been compared within the same participants, it remains unclear
+whether these observations refer to the exact same region of RTPJ or may instead involve
+neighboring regions with distinct functional profiles. To test the claim that there is a region of
+RTPJ selective for belief attribution, the current study used functional neuroimaging to examine
+the extent to which cortical loci identified by a "theory-of-mind localizer" also distinguish
+between trials on a target detection task that varied demands to reorient attention (i.e., a version
+of the "Posner cueing task"). Results were incompatible with claims of RTPJ selectivity for
+mental state attribution. Regardless of whether regions were defined from group analyses or were
+individually tailored for each participant, RTPJ activity was also modulated by the nonsocial
+attentional task. The overlap between theory-of-mind and attentional reorienting suggests the
+need for new accounts of RTPJ function that integrate across these disparate task comparisons.
+
+3
+
+SATURDAY, MAY 12
+1:30PM-3:10PM:
+PAPER SESSION B
+1:30-1:50PM
+“An Adaptionist Model of Disgust: Evidence from fMRI and Self
+-report Data”
+Jana Schaich Borg, Neuroscience Institute at Stanford University;
+Debra Lieberman, University of Hawaii, Department of Psychology;
+Kent A. Kiehl, Olin Neuropsychiatry Research Center, Institute of Living,
+Hartford, CT and The Mind Institute, Albuquerque, NM
+The emotion of disgust can be partitioned into three distinct functional domains: pathogen
+disgust, sexual disgust, and moral disgust. Using adaptationist logic, we propose that disgust first
+evolved to mediate the avoidance of disease-causing agents, and then was co-opted as new
+selective pressures arose to guide decisions regarding mating behavior and, ultimately, other
+social interactions. We discuss findings from our fMRI study investigating the possible neural
+correlates of these proposed domains. Specifically, our study explored whether: (i) pathogen,
+sexual, and moral disgust activate common neural systems, and (ii) these three domains also
+entrain separate cognitive and behavioral systems specific to their respective evolved functions.
+Fifty male participants completed a set of surveys, and afterwards were scanned while
+performing a memory task that presented neutral statements, statements describing pathogenrelated acts (pathogen disgust), statements describing incestuous acts (sexual disgust), and
+statements describing non-sexual socio-moral transgressions (moral disgust). Conjunction
+analyses indicated that pathogen, sexual, and moral disgust indeed activate common neural
+systems, and planned comparisons provided evidence that each functional disgust domain also
+has additional, unique neural correlates. Self-report data revealed distinct patterns of reactions to
+pathogen, sexual, and moral disgust providing additional support for our proposed model. We
+will discuss these and other related findings, as well as consider the implications our data have
+for the study of morality.
+1:50-2:10PM
+
+“Orbitofrontal Cortex: Making Emotion Work for You and Not
+Against You”
+Jennifer Beer, University of California, Davis
+
+Emotion has long been vilified for its disruptive role in decision-making but recent
+conceptualizations have taken a more charitable view of emotion. In particular, recent models of
+decision-making consider two systems of thought that support decision-making: an intuitive,
+emotion-driven system and a controlled, rational system. From this perspective, emotion-driven
+decisions are not necessarily suboptimal and may offer a time advantage over rational decisionmaking. Additionally, the rational system is in place to correct mistakes made by the emotiondriven decision-making system. One line of evidence used to support the two-system perspective
+comes from claims of neural independence between these two systems. However, the
+orbitofrontal cortex has been implicated in both the emotion-driven decision-making system and
+the rational decision-making system. Research from our lab investigates the dual role of the
+orbitofrontal cortex in decision-making and suggests that this region supports emotional
+experience (rather than emotion-driven decision-making) and also plays a role in rational
+decision-making.
+
+4
+
+SATURDAY, MAY 12
+2:10-2:30PM “Unpacking the developmental trajectory of the neural circuits underlying
+emotion regulation”
+Kevin Ochsner, Columbia University
+Responding adaptively to life's emotional ups and downs is one of our most important
+challenges. One way to cope with these challenges is to cognitively reinterpret or reappraise the
+meaning of an emotional experience so as to lessen its negative or enhance its positive impact. In
+recent years, functional imaging research has begun to shed light on the mechanisms underlying
+this ability. Multiple studies from various labs have converged to suggest that interactions
+between prefrontal cortex and the amygdala underlie the use of cognition to regulate emotion.
+Current work seeks to translate this model of PFC-amygdala interactions to understanding when
+and how these interactions develop from childhood to young adulthood. This talk will describe
+an experiment examining the developmental trajectory of reappraisal from ages 10-22.
+Behavioral results indicated that the ability to use reappraisal to dampen negative emotional
+experience increased both with age and with performance on standard behavioral measures of
+cognitive control. Similarly, imaging data indicated that recruitment of PFC mechanisms
+associated with reappraisal increased as a function of age. These results dovetail with work on
+the development of other forms of working memory, selective attention and response inhibition
+suggesting that prefrontal control mechanisms develop to adult-like levels in the early teens.
+2:30-3:10PM
+
+“The Neural Reference Space for Emotion: New Meta-Analytic
+Insights” Lisa Feldman Barrett, Boston College, & Tor Wager,
+Columbia University
+
+Questions about the nature of emotion have existed since psychology emerged as a scientific
+discipline in the late nineteenth century. Until recently, scientists have been unable to measure
+emotions at their source, and so relied on behavioral, experiential, and multi-channel measures of
+the peripheral nervous system to address fundamental questions about what emotions are and
+how they function in the economy of the mind. While much has been learned that is of both
+scientific interest and practical value, age-old questions about the nature of emotion remain
+fundamentally unresolved. The relatively recent introduction of neuroimaging techniques,
+particularly functional magnetic resonance imaging (fMRI) and positron emission tomography
+(PET), provide a new perspective on the emotion in the intact human brain, and have the
+potential to identify which brain areas are consistently and specifically associated with particular
+types of emotional states. We report on a series of meta-analyses of the first fifteen years of
+neuroimaging research to investigate the consistent and specific neural underpinnings of
+emotions including basic affective responses to stimuli (such as pictures or odors), the
+experience and regulation of discrete emotions such as disgust, anger, and desire, and the
+perception of emotion in others.
+
+5
+
+SATURDAY, MAY 12
+3:50PM-5:30PM:
+PAPER SESSION C
+3:50-4:10PM
+
+“The Neural Basis for the Computation of Decision Values in Simple
+Economic Choice”
+Hilke Plassman, John O’Doherty, & Antonio Rangel, Caltech
+
+Almost all models of decision-making assume that choices are made in two stages: first a
+decision value (DV) is computed for each alternative, then the DVs are compared to generate a
+choice. We study the neural mechanisms underlying the first set of computations in simple
+choice situations. These types of choices are defined by the following characteristics: individuals
+choose between two highly familiar items, the chosen object is consumed immediately, there is
+no uncertainty about the costs and benefits generated by the items, and the individual faces no
+self-control problem regarding their consumption. In this talk we will present results from a
+series of fMRI experiments that combine tools from experimental economics and cognitive
+neuroscience to identify brain areas associated with the computation of DVs. There are two
+difficulties in finding the neural basis for the computation of DVs. First, a trial-by-trial measure
+of DVs is necessary. Second, it is important to dissociate anticipatory reward and DV signals.
+We propose a novel experimental design that solves both problems. A key innovation is the use
+of incentive compatible Becker-DeGroot auctions to reliably measure DVs on each trial.
+We find that areas of the orbitofrontal and anterior cingulate cortex are associated with the
+computation of DVs in simple choices. Our results are consistent with recent primate
+electrophysiology studies by Padoa-Schioppa (Nature, 2006).
+4:10-4:30PM
+
+“Emotions and goal-maintenance in decision-making”
+Mascha van’t Wout, University of Arizona, René S. Kahn, Rudolf
+Magnus Institute of Neuroscience, University Medical Center Utrecht,
+Alan G. Sanfey, University of Arizona, & André Aleman, BCN
+NeuroImaging Center
+
+The emerging field of neuroeconomics implies that emotional as well as cognitive processes
+contribute to economic decision-making. Indeed, activation of the insula, a brain area implicated
+in emotions, has been shown to predict decision-making in the Ultimatum Game. In addition,
+activation of the dorsolateral prefrontal cortex during offers experienced as unfair was suggested
+to subserve goal-maintenance in this task. However, converging evidence on the role of emotions
+as well as whether the dorsolateral prefrontal cortex is crucial for strategic decision-making in
+the Ultimatum Game is important. In order to investigate the role of emotions and the
+dorsolateral prefrontal cortex in strategic decision-making, we first measured skin conductance
+while playing the Ultimatum Game. In a second study, we used repetitive transcranial magnetic
+stimulation over the right dorsolateral prefrontal cortex before playing the game. The results
+revealed that skin conductance activity was higher for unfair offers and was associated with the
+rejection of unfair offers in the Ultimatum Game. Interestingly, this pattern was only observed
+for offers proposed by human conspecifics, but not for offers generated by (non-human)
+computers. Results from the second study showed that repetitive transcranial magnetic
+stimulation over the right dorsolateral prefrontal cortex resulted in an altered decision-making
+
+6
+
+SATURDAY, MAY 12
+strategy, i.e. shifted from the ‘default’ strategy, compared to sham stimulation. These results
+provide direct support for economic models that acknowledge the role of emotional brain
+systems in everyday decision-making and that the dorsolateral prefrontal cortex is causally
+implicated in strategic decision-making.
+4:30-4:50PM
+
+“The Evolution of Decision-Making Biases: The Endowment Effect in
+Non-Human Primates”
+Venkat Lakshminarayanan, Keith Chen & Laurie Santos, Yale
+University
+
+A number of classic studies have demonstrated that human subjects display an “endowment
+effect.” — they place a higher value on a good that they own versus an equally-priced good that
+is not in their possession Here, we present the first evidence that the endowment effect also
+exists in an ancestrally related new-world primate, the capuchin monkey (Cebus apella). We
+presented capuchin monkey subjects with a token trading task in which they could exchange
+tokens for foods. For each subject, we identified a pair of treats (fruit disc and a cereal cube)
+between which they were indifferent. Given a limited number of tokens that they could hand to
+experimenters for food, capuchins purchase equal quantities of both rewards. However, subjects
+were generally unwilling to trade away fruit-discs in order to obtain the cereal-chunks (or vice
+versa). In contrast, all subjects were willing to exchange these goods for a highly-desirable
+candy. These data suggest that a common evolutionary ancestor may have provided both
+humans and capuchins with the neural prerequisites for the endowment effect. Additionally, the
+presence of these anomalous choices in capuchins indicate that decision-making biases such as
+the endowment effect do not rely on uniquely-human cognition, and rather owe to more
+architecturally primitive and evolutionarily ancient neural systems which could be fully
+characterized using primate models.
+4:50-5:30PM
+
+“Hyperscan fMRI imaging of buyer-seller bargaining with
+asymmetric buyer values”
+Meghana Bhatt, Caltech, Terry Lorenz, Baylor, Read Montague, Baylor,
+& Colin Camerer, Caltech
+
+We study buyer-seller bargaining when buyers have privately-known valuations (from 0 to 10)
+and sellers have zero cost. Buyers learn their value v, announce a "suggested price", sellers
+choose a take-it-or-leave-it price p, and trade occurs at the price p if the buyer valuation is
+greater than the price (v>=p). In the game-theoretic equilibrium where both players anticipate
+correctly will do and maximize expected profits, the buyer always has an incentive to claim that
+her value is low to get a lower price from the buyer; strategic buyers understand this incentive
+and ignore the "cheaptalk" suggested price, then name a price p=5 to maximize their expected
+value. We study behavior in this game using hyperscan fMRI which images brain activity of
+buyers and sellers simultaneously. Players switch roles so we can perform a within-subject
+comparison of a single subject as buyer and as seller. Behaviorally, buyer suggested prices are
+often correlated with values, and seller actual prices are correlated with suggested prices. These
+stylized facts are consistent with a model of limited strategic thinking in which some buyers
+
+7
+
+SATURDAY, MAY 12
+honestly announce their actual values; sellers who anticipate this honest revelation of values then
+choose prices which respond to suggested prices. The design enables us to compare activity
+when agents form beliefs about values (as sellers do) and when agents form beliefs about what
+others agents believe (as buyers do in choosing suggested prices to influence seller beliefs). The
+goal of hyperscan is to use joint fMRI signals to predict dyadic behavior (e.g. when trades do not
+occur, and when pairs coordinate on a value-revealing pattern of behavior).
+6:15PM-7:15PM:
+
+Keynote Address: “Neurobiology of Social Behavior in the Rhesus
+Monkey”
+David G. Amaral, University of California, Davis
+
+This presentation will provide an overview of strategies, complications and outcomes associated
+with using the nonhuman primate animal model to establish components of the social brain.
+Many of the conclusions will be based on ongoing studies in which permanent lesions have been
+made of the amygdaloid complex in either adult rhesus monkeys or in newborn animals. More
+generally, questions will be raised about how to establish an adequate definition of the “social
+brain” and the extent to which any animal model can act as a proxy for studying human social
+behavior and human social cognition. Time permitting, findings from rhesus monkeys will be
+related to the pathophysiology of autism.
+SUNDAY, MAY 13
+9:15AM-10:55AM: PAPER SESSION D
+9:15-9:35AM
+
+“Neural Evidence for the Person Positivity Bias”
+Lasana Harris, Wouter van den Bos, Susan Fiske, Sam McClure, & John
+Cohen, Princeton University
+
+The medial prefrontal cortex (mPFC) tends to respond to social cognition (Amodio & Frith,
+2006). However, this strip of cortex is also a crucial component of the reward circuitry in the
+brain (McClure et al., 2004). This paper attempts to reconcile the dual functions of the mPFC
+using neural imaging. Past studies have demonstrated reduced mPFC activity to extremem
+outgroups: Groups perceived as low in warmth and competence (homeless people, drug addicts)
+that elicit the non-exclusively social emotion of disgust (Harris & Fiske, 2006). We present
+evidence for a main effect of valence and an interaction of social stimuli. Participants saw
+pictures of both positive and negative people and objects while deciding if the stimuli were
+positive/ negative or people/ not people. The mPFC makes a valence distinction between positive
+and negative stimuli across tasks, but the effect is driven by the simple effect within people. This
+suggests that people are intrinsically rewarding stimuli and we are particularly sensitive to
+people as mainly positive stimuli, and are more vigilant to people that generate negative affect.
+
+8
+
+SUNDAY, MAY 13
+9:35-9:55AM
+“The Role of Empathy in Fear Learning through Social Observation”
+Andreas Olsson, Columbia University, Jamil Zaki, Columbia University;
+Elizabeth A. Phelps, New York University; Niall Bolger, Columbia
+University; & Kevin N. Ochsner, Columbia University
+Observing another individual expressing fear of a stimulus provides a powerful means of
+learning the affective value of that stimulus. Indeed, across species, observational fear learning
+(OFL) may involve the same basic learning mechanisms as classical fear conditioning. However,
+to provide adaptive learning in complex human social situations, OFL is likely to be sensitive to
+top-down manipulations affecting mental attributions and personal goals. The present research
+used several variations of an OFL paradigm to explore the behavioral, psychophysiological and
+neural processes supporting the impact of empathy and self-relevance on emotional learning. All
+subjects watched a movie of another individual (the model) being exposed to the painful
+consequences of a particular stimulus. Empathy was manipulated by providing the subjects with
+information about the model’s emotional state and instructions about perspective taking. Selfrelevance was manipulated by altering the subjects’ beliefs about whether or not they were
+themselves placed in an analogous situation subsequently. After watching the movie, all subjects
+were presented with the same stimuli as the model in the movie, but with no painful
+consequences. The results showed that neural circuits known to be involved in empathy and
+mental attributions were engaged during observational fear learning, and that the magnitude of
+these activations predicted subsequent learning responses. Further supporting the causal link
+between empathizing with and learning from a distressed other, psychophysiological data
+indicated that instructions to empathize facilitated emotional learning, but that this effect can be
+modulated by the perceived self-relevance of the situation in which the other is placed.
+9:55-10:15AM
+
+“The Neural Correlates of First Impressions”
+Jon Freeman, NYU, Jason P. Mitchell, Harvard, Jim S. Uleman, NYU,
+Elizabeth A. Phelps, NYU,& Daniela Schiller, NYU
+
+Making sense of others is a challenging endeavor for social observers. This process requires
+integration of complex and occasionally conflicting information into impressions of the social
+beings around us. As compared to non-social cognitive processing, social encoding recruits a
+distinct set of neural mechanisms, primarily localized in the dorsomedial prefrontal cortex
+(dmPFC; Mitchell et al., 2002). In the present study we further characterized the neural processes
+accompanying inferences about others. We hypothesized that neural activity engaged in the
+processing of conflicting information will reflect which information is subjectively relevant and
+which is ignored while forming social-related decisions. To test this hypothesis, we measured
+BOLD signals during exposure to different person profiles. Each profile consisted of varying
+degrees of positive and negative information. In each profile presentation, there was a gradual
+transition from positive to negative information or vice versa. Subjects were requested to form an
+impression of each person using a valance scale. These responses were used to determine which
+information was subjectively significant, influencing their impressions (decision-related), and
+which was ignored (non-decision related). We then looked for brain areas responding
+
+9
+
+SUNDAY, MAY 13
+differentially to these different types of information. We found that the dmPFC was engaged
+during the presentation of social information but did not respond differentially to decision-related
+versus non-decision related information. Interestingly, areas that did show such pattern of
+responding, with higher responses to decision-related information, were areas implicated in
+emotional and value encoding, namely, the amygdala, the striatum, and the ventomedial PFC.
+These results suggest that impression formation recruits not only brain systems specialized for
+social encoding but also emotional and value processing systems. This integrated activity may be
+important for decision making in a social context.
+10:15-10:55AM
+
+“Social Learning of Fear”
+Elizabeth A. Phelps, New York University
+
+Using simple classical fear conditioning paradigms, detailed animal models of fear learning have
+outlined the underlying neural circuitry from stimulus input to response output. These models
+are a starting point for understanding the mechanisms of emotional learning in humans.
+However, human fear learning may differ fundamentally from traditional classical conditioning
+in a number of important ways. Humans often learn about the potential aversive properties of
+stimuli through social means, such as language and observation. In addition, the object of fear
+learning for humans is often another person. In this talk, I will review our work examining how
+the neural mechanisms of fear learning extend from classical conditioning to social means of
+learning in humans. I will also discuss how social group factors, specifically race, may influence
+the neural circuitry of fear learning, and the potential implications for understanding the
+persistence of race bias.
+1:30PM-3:10PM:
+1:30-1:50PM
+
+PAPER SESSION E
+“When do Amygdala-Lesioned Patients Recognize Fear and Anger in
+Faces?”
+Kevin LaBar, Duke University, Reiko Graham, Texas State University
+& Orrin Devinsky, New York University Medical Center
+
+We report data from two experiments that re-examine fear and anger recognition deficits in
+amygdala-lesioned patients using morphed facial stimuli. In both experiments, participants were
+exposed to Ekman face photographs that were morphed to express different levels of fear and
+anger intensity, fear-anger blends, and blends of facial identity (with neutral expression).
+Experiment 1 was a card-sorting task in which subjects were provided with cards showing
+different morph increments; subjects were asked to sort the cards to form a progressive morph
+order. Temporal lobectomy patients and a bilateral amygdala-lesioned patient (SP) showed
+normal abilities to sort the progressions. However, a postencephalitic patient with more
+widespread left temporal lobe damage exhibited impairments in sorting the fear-anger blends and
+identity morphs. Experiment 2 was a two-alternative forced choice recognition test for the morph
+increments, which were presented individually on a computer screen. Under limited exposure
+durations, SP showed impairments in categorical perception of fear and anger but performed
+normally on the identity morphs. When provided unlimited exposure, SP showed a speed-
+
+10
+
+SUNDAY, MAY 13
+accuracy tradeoff in recognizing fear, suggesting a reliance on a heuristic such as feature
+analysis. Results indicate that, under some circumstances, amygdala-lesioned patients are able to
+distinguish subtle featural displacements that characterize incremental changes in facial
+expression and identity. These results point to the importance of considering both speed and
+accuracy in interpreting facial recognition abilities, highlight the utility of signal detection
+models to quantify discrimination abilities, and reveal potential compensatory strategies
+available following amygdala damage.
+1:50-2:10PM
+
+“Two Neural Systems for Calculative and Unconditional Trust in
+Two-Person Reciprocal Exchange”
+Frank Krueger, National Institutes of Health, Kevin McCabe, George
+Mason University, Jorge Moll, Roland Zahn, Maren Strenziok, & Jordan
+Grafman, National Institutes of Health
+
+Unlike other species, humans are trustful and cooperate with genetically unrelated strangers
+or with individuals they will never meet again. Recent studies in neuroeconomics have started
+to explore the neurobiological basis of trust and cooperation in reciprocal exchanges. We
+employed event-related hyper-fMRI while two strangers (22 males and 22 females) interacted
+with one another each in a separate MRI scanner. Paired participants (same gender) played
+rounds of multi-shot reciprocal voluntary trust games in alternating roles as first and second
+mover bargaining for money. The experimental design allowed us to address two questions:
+Which brain regions modulate decisions to trust and how does trust evolve over time? Our
+findings indicate that decisions to trust draw upon general mammalian neural systems
+underwriting social attachment (subgenual region), social reward and aversive responses (medial
+and lateral orbitofrontal cortex, respectively) as well as on the uniquely developed human
+anterior prefrontal cortex recruited for mentalizing (paracingulate cortex) and assessment of
+prospective outcomes (frontopolar cortex). In addition, we identified two interlocking neural
+systems that exist for maintaining trust in partnerships. One system activated the ventral
+tegmental area and mediated a calculative strategy linked to the dopaminergic system used to
+evaluate expected and realized reward. A second system activated the subgenual cortex and
+mediated an unconditional strategy linked to the social attachment behavior. Working in
+conjunction, these neural systems allow reciprocal exchange to operate beyond the immediate
+spheres of kinship; one of the distinguishing features of the human species.
+2:10-2:30PM
+
+“Neural Representation of Social Hierarchy in Humans”
+Caroline Zink, Yunxia Tong, Qiang Chen, Jason L. Stein, Courtnea A.
+Rainey, Catherine K. Draper, Lucas Kempf, & Andreas MeyerLindenberg, National Institute of Health
+
+While status in a particular social construct is greatly influential on behavior, virtually nothing is
+known about the brain regions encoding social hierarchy in humans. Using fMRI, we
+investigated the neural correlates of social dominance and inferiority in the context of an
+interactive game. Subjects performed a task with monetary reward for correct responses
+simultaneously with (not against) one of two other players represented by pictures. Covertly,
+
+11
+
+SUNDAY, MAY 13
+outcomes for each player were fixed, and the two other players were simulated. In an initial test
+run, a social hierarchy was created by identifying one other player as better and one as worse
+than the subject. Each round began with the picture and rank of the other player participating in
+that round and ended with the outcomes of the round. Every fourth round, the ranks were
+updated based on performance (i.e. the game was explicitly noncompetitive, but hierarchy was
+reinforced by outcome/rank changes throughout). In an event-related, random effects analysis,
+we demonstrated that the dominant player elicited greater activity in several areas related to
+social saliency, including occipital/parietal regions, prefrontal cortex, hippocampus, amygdala
+and ventral striatum. In the outcome phase, neural responses were unrelated to reward (win or
+lose) or the status of the particular other player, per se, but rather were related to the hierarchical
+value of the outcome. Being “beat” by an inferior player engaged occipital/parietal regions,
+ventral striatum, and insula. “Beating” a dominant player engaged frontal regions and
+precuneus. To our knowledge, we present the first human data on the neural representation of
+social dominance hierarchy. Our results suggest that the neural encoding of dominance and
+inferiority in humans are dissociable, even in the absence of explicit competition. Differential
+activation patterns to dominant and inferior agents and to outcomes with hierarchical value may
+explain how social hierarchy in humans influences our behavior.
+2:30-3:10PM
+
+“Facial Processing, the Amygdala and Autism”
+Ralph Adolphs, CalTech
+
+I will provide an update to work from our laboratory that builds on our prior studies of facial
+emotion processing. Certain features of faces are used in order to discriminate specific emotions,
+notably the eyes for fear. Some of these same features also drive emotional response and regional
+brain activation. Data from neurological subjects with focal amygdala lesions show some
+striking parallels to data from high-functioning people with autism, as well as their first-degree
+relatives. Key open questions concern how the amygdala participates in a network with other
+structures, such as the fusiform gyrus and prefrontal cortex, and at which stage of processing in
+this network dysfunction arises in illnesses such as autism.
+
+POSTER SESSION TITLES
+SATURDAY, MAY 12
+
+11:00AM-12:00PM PAPER SESSION A
+
+1. Goal Pursuit In Action: Neural Correlates Of The Behavioral Inhibition And Activation Systems
+During Goal Pursuit (Berkman, Elliot; UCLA)
+2. Effects of Appetitive Attitudes Towards Affective Pictures on Asymmetrical Frontal Cortical Activity
+(Gable, Philip; Texas A&M)
+3. Motivational Significance of Social Stimuli Contributes to Activation in vmPFC (van den Bos, Wouter;
+University of Leiden)
+
+12
+
+SATURDAY, MAY 12
+
+11:00AM-12:00PM PAPER SESSION A
+
+4. Is mental effort aversive?: Some behavioral and psychophysiologic evidence (Rosen, Zev; University of
+Pennsylvania)
+5. Origins of Cognitive Dissonance (Egan, Louisa; Yale University)
+6. Action and consequence in neural representations of uncertainty (Bhanji, Jamil; UC Davis)
+7. Reappraising Losses: Physiological and Neural Correlates of the Intentional Regulation of Loss
+Aversion (Sokol-Hessner, Peter; NYU)
+8. Does reward context influence anticipatory affect and nucleus accumbens activation? (Cooper, Jeff:
+Stanford University)
+9. Neural correlates of impulsivity during intertemporal choice (Kable, Joe; NYU)
+10. The impact of Depression on Social Economic Decisions in the Ultimatum Game (Harle, Katia;
+University of Arizona)
+11. The neural correlates of post-decisional attitude change (Jarcho, Johanna; UCLA)
+12. Contribution of white matter integrity to socio-emotional processing after traumatic brain injury (TBI)
+in children (Wilde, Elisabeth; Baylor)
+13. Development of Common Ground in Social Communication in Patients with Bilateral Ventromedial
+Prefrontal Cortex Lesions (Duff, Melissa; University of Iowa)
+14. Mediational effects of traumatic brain injury on social problem-solving during first year recovery
+compared to orthopedically injured pediatrics (Menefee, Deelene; Baylor)
+15. Slowed Timing of Cortical Integration in Acquired Brain Injury (Brick, Gabriela; CUNY Brooklyn)
+16. Relation of neural substrate to social problem solving in children with traumatic brain injury (TBI)
+(Ghosh, Alokananda; Baylor)
+17. The ventromedial prefrontal cortex is important for updating moral judgments (Croft, Katie;
+University of Iowa)
+18. The role of the amygdala in affective experience (Duncan, Seth; Boston College)
+19. Life without the amygdala: Minimal fear and anxiety (Feinsten, Justin; University of Iowa)
+20. Classifying spatial patterns of brain activity associated with human face categories (Bronstad, Matt;
+Brandeis)
+21. The Emostroop effect: Task-irrelevant facial emotions are processed spontaneously, rapidly and at the
+level of the specific emotion (Preston, Stephanie; University of Michigan)
+22. Lighting Up! The neurophysiological effects of anti-tobacco advertising on smokers and non-smokers
+(Campbell, Shoshanna; University of Montreal)
+
+13
+
+SATURDAY, MAY 12
+
+11:00AM-12:00PM PAPER SESSION A
+
+23. Neural Correlates of Belonging: An fMRI Study of Social Exclusion (Knack, Jennifer; UT Arlington)
+24. Dissociable Effects of Social Pressure on Frontal- and Striatal-Mediated Classification Learning:
+Choking and Excelling Under Pressure (Worthy, Darrell; UT Austin)
+25. Getting stressed when cheated? On Cortisol-reactions in a social dilemma situation (Herrmann,
+Benedikt; University of Nottingham)
+26. Neural Dynamics of Rejection Sensitivity (Kross, Ethan; Columbia University)
+27. Examining the neural relationships between social rejection and motivation (Peterson, Carly; Texas
+A&M)
+28. EEG Correlates of Spontaneous and Intentional Trait Inferences (van Overwalle, Frank; Vrije
+Universiteit Brussel)
+29. Self-referencing, memory, & aging (Gutchess, Angela; Harvard University)
+30. A shared basis for thinking about self and other: the effects of perceived similarity (Jenkins, Adriana;
+Harvard Univeristy)
+31. Appraisals of Self During Social Interaction and the Medial Prefrontal Cortex (Berger, Gail; Rome,
+NY)
+32. Imagining a positive future: The neural mechanism mediating the optimism bias (Sharot, Tali; NYU)
+33. Is My Future Self Really Me?: An fMRI Study (Ersner Hershfield, Hal; Stanford University)
+34. The lasting effect of words on feelings: fMRI and psychophysiology investigations (Tabibnia,
+Golnaz; UCLA)
+35. The neural correlates of adult attachment and mentalizing in Borderline Personality Disorder (Sharp,
+Carla; Baylor)
+36. The Neurotransmitter Attributes Questionnaire (NAQ): Another Perspective on Psychopathology
+(O’Connor, Lyn; The Wright Institute)
+37. Emotional Enhancement of Distinct Neural Systems By the Form and Motion of Fearful Bodies
+(Atkinson, Tony; Durham University)
+38. University of Texas Imaging Research Center
+
+SUNDAY, MAY 13
+
+11:00AM-12:00PM PAPER SESSION B
+
+1. Commonalities in Anorexia Nervosa and Autism Spectrum Disorders: Investigation of Social
+Cognitive Endophenotypes (Zucker, Nancy; Duke University)
+
+14
+
+SUNDAY, MAY 13
+
+11:00AM-12:00PM PAPER SESSION B
+
+2. Perinatal Polychlorinated Biphenyl Exposure Disrupts Developing Motor Skills and Hormonal
+Regulation: A Possible Model for Autism (Krishnan, Dena; Bowling Green State University)
+3. Neural Correlates of Early-Stage Intense Romantic Love in Chinese Participants (Xu, Xiaomeng;
+SUNY Stonybrook)
+4. Cultural background modulates neural correlates of attention to visual-spatial stimulus dimensions
+(Hedden, Trey; MIT)
+5. The Effects of Memory Consolidation on the Cerebral Asymmetries of Person Perception (Chavez,
+Clarissa; UT El Paso)
+6. Effects of Secondary Categorization Processes on Explicit Categorization Using Event-related
+Potentials (Corral, Guadalupe; UT El Paso)
+7. ERP N400 Effect With Evaluatively Incongruent Attitudes (Taylor, Jennifer; UT El Paso)
+8. Inhibition of Social Categorization (Rivera, Luis; UT El Paso)
+9. The effects of unilateral hand contractions on contra-lateral hemispheric activity and aggression
+(Peterson, Carly; Texas A&M)
+10. Are preverbal infants lateralized for language? Using NIRS to track hemispheric dominance for
+speech in 6- to 9-month-olds (Fava, Eswen; Texas A&M)
+11. The resting brain tells us about individual differences in temperament (Whittle, Sarah; University of
+Melbourne)
+12. The Personality/Temperament Trait of High Sensitivity: fMRI Evidence for Independence of Cultural
+Context in Attentional Processing (Ketay, Sarah; SUNY Stonybrook)
+13. Neural Substrates of Perceiving Variations in Facial Attractiveness (Zhang, Yi; Brandeis University)
+14. Are the Brains of Sensitive People Different? A VBM Study (Ersner Hershfield, Hal; Stanford
+University)
+15. An fMRI study of interpersonal trust with exogenous oxytocin infusion (Park, Jang Woo; Claremont
+Graduate University)
+16. Attention and reality constraints on the neural processes of empathy for pain (Gu, Xiaosi; SUNY
+Stonybrook)
+17. Neural Systems Underlying Agency Perception Predict The Propensity Toward Altruism (Tankersley,
+Dharol; Duke University)
+18. Different circuits for different pain: Patterns of functional connectivity reveal distinct networks for
+processing pain in self and others (Zaki, Jamil; Columbia University)
+19. Kindness to Strangers: Altruism, Empathy, and Guilt (O’Connor, Lyn; The Wright Institute)
+
+15
+
+SUNDAY, MAY 13
+
+11:00AM-12:00PM PAPER SESSION B
+
+20. Disorders of interpersonal aggression in children: The failure to trust (Sharp, Carla; Baylor)
+21. Domain-Specific Understanding of Self-Propelled Motion in Infant Rhesus Macaques (Macaca
+mulatta) (Mahajan, Neha; Yale University)
+22. The Evolution of Decision-Making Under Uncertainty: Framing Effects in Non-Human
+Primates (Lakshminarayan, Venkat; Yale University)
+23. Acute tryptophan depletion alters valuation of social images in the rhesus macaque (Watson,
+Karli;Duke University)
+24. Brain mechanisms of persuasive communication (Klucharev, Vasily; F.C. Donders Centre for
+Cognitive Neuroimaging)
+25. The Neuropsychological Approach to the Problem of Freedom, based on the writings of Friedrich A.
+Hayek and on the current trends of Cognitive Neuroscience (Ochoa, Juan Jose Ramirez; Universidad
+Francisco Marroquin)
+26. Alternative neural mechanisms for regulating affective vs. stereotypic judgments in person perception
+(Potanina, Polina; NYU)
+27. The independent effects of race and emotion cues in early perception (Kubota, Jennifer; University of
+Colorado at Boulder)
+28. Negative Stereotypes Produce Better Performance in Frontal-Mediated Classification Learning
+(Narvaez,Llisa; UT Austin)
+29. The Effects of Music on the Fast and Slow Perception of Outgroup Faces: An fMRI Investigation
+(Forbes, Chad; University of Arizona)
+30. Neural Systems of the human Multidimensionality: the Relational approach (Niklolenko, Olena;
+Romodanov Institute of Neurosurgery)
+31. Neuroreflection": from “mind / brain” problem to the “social reality / neural systems” problem
+(Nikolenko, Oleg; Odessa National University)
+
+16
+
+
